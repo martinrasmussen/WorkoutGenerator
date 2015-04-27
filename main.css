@@ -1,0 +1,32 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+#selectArea{
+  height: 70%;
+  float: right;
+}
+
+#selectArea2{
+  overflow: scroll;
+  height: 70%;
+  float: left;
+}
+.container {
+  border-radius: 20px;
+  height: 100%;
+  box-shadow: 2px 2px 2px 2px black;
+}
+.row {
+  height: 70%;
+}
+
+.exercise-value {
+  width: 100%;
+  height: 30px;
+}
+
+.selected {
+  background-color: lightgray;
+}
